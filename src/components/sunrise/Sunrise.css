@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Noto Serif Tamil;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.main{
+    width: 100%;
+}
+img.imgmain {
+    width: 100%;
+    position: absolute;
+}
+.nav{
+    position: relative;
+    padding: 5px;
+    
+}
+img.pumpimg{
+    width: 155px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.twodiv{
+    display: flex;
+}
+.centerdiv{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: #fff;
+    margin-left: 22rem;
+    margin-top: 25px;
+    
+}
+.division{
+    position: relative;
+    font-family: Noto Serif Tamil;
+    padding-left: 45px;
+    font-size: 14px;
+}
+.btn{
+    position: relative; 
+    margin-left: 295px;
+    margin-top: 20px;
+}
+.btnwhite{
+    padding: 6px;
+    border-radius: 6px;
+    background: var(--secondary-color-2, #E2E2E2);
+    border: none;
+}
+.btnnormal{
+    margin-left: 21px;
+    padding: 6px;
+    background-color: black;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid var(--secondary-color-2, #E2E2E2);
+}
+.input{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.insert{
+    font-family: Noto Serif Tamil;
+    width: 38rem;
+    background-color: black;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid var(--secondary-color-2, #E2E2E2);
+    padding: 12px;
+    padding-left: 25px;
+}
+.leftpara{
+    display: flex;
+    position: relative;
+    color: #fff;
+    width: 100%;
+    padding: 3rem;
+    margin-top: 84px;
+}
+.hone{
+    font-family: Noto Serif Tamil;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.08px;
+}
+.para1{
+    font-family: Noto Serif Tamil;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200%; /* 32px */
+    letter-spacing: 0.48px;
+    margin-top: 25px;
+}
+.yellowbtn{
+    color: var(--accent-color, #FCAF17);
+    background-color: black;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    width: 210px;
+    height: 40px;
+    border-radius: 6px;
+    margin-top: 3rem;
+    border: 1px solid var(--accent-color, #FCAF17);
+}
+.threeimg{
+    margin-left: 15rem;
+    margin-top: 12rem;
+}
+.threepic{
+    position: relative;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 6px;
+    border: solid #fff;
+    margin-left: 15px;
+
+}
+.last{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.white{
+    border-radius: 6px;
+    margin-left: 10px;
+    width: 80px;
+}
+.yellow{
+    border-radius: 6px;
+    margin-left: 10px;
+    width: 80px;
+}

@@ -1,0 +1,145 @@
+
+.feature{
+    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    display: flex;
+    position: absolute;
+    margin-left: 3rem;
+    
+
+}
+.freaturehone{
+    color: var(--primary-color, #393D46);
+font-family: Noto Serif Tamil;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.08px;
+}
+.featurepara{
+    color: var(--secondary-color-1, #7D8085);
+font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 200%; /* 32px */
+letter-spacing: 0.48px;
+}
+.subpara{
+    color: var(--secondary-color-1, #7D8085);
+font-family: Noto Serif Tamil;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+margin-left: 10px;
+border-bottom:1px solid #FCAF17 ;
+}
+.btnsright{
+    margin-top: 3rem;
+    margin-left: 8rem;
+}
+.doors{
+    margin: 1rem;
+    padding: 25px;
+    border-radius: 4px;
+    border: 1px solid var(--primary-color, #393D46);
+    color: var(--secondary-color-2, #E2E2E2);
+    font-family: Noto Serif Tamil;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    background-color: #fff;
+    color: #393D46;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.doorsblack{
+    margin: 1rem;
+    padding: 25px;
+    border-radius: 4px;
+    border: 1px solid var(--primary-color, #393D46);
+    color: var(--secondary-color-2, #E2E2E2);
+    font-family: Noto Serif Tamil;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    background-color: #393D46;
+    color: #fff;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.recimg{
+    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    position: absolute;
+    width: 13rem;
+    margin-top: 160px;
+    height: 100%;
+}
+.lightimg{
+    position: relative;
+    margin-top: 8rem;
+    padding-top: 5rem;
+    width: 160px;
+    margin-left: 1rem;
+}
+.six{
+    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    position: relative;
+    height: 30rem;
+    width: 25rem;
+    
+}
+.lastdetails{
+    position: relative;
+}
+.htwo{
+    position: relative;
+}
+.flex{
+    margin-left: 40px;
+    display: flex;
+    margin-bottom: 2rem;
+    
+}
+.htwo{
+    margin-left: 30px;
+    color: var(--secondary-color-1, #7D8085);
+font-family: Noto Serif Tamil;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+}
+.hfour{
+    margin-left: 30px;
+    color: var(--primary-color, #393D46);
+font-family: Noto Serif Tamil;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.6px;
+}
+.hsix{
+    margin-left: 30px;
+    color: var(--secondary-color-1, #7D8085);
+font-family: Noto Serif Tamil;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+}

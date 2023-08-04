@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Noto Serif Tamil;
+}
+.main{
+    background-color: black;
+    height: 190px;
+    border-radius: 4px;
+    background: linear-gradient(135deg, #7D8085 0%, #393D46 53.86%);
+    box-shadow: 0px 15px 25px 15px rgba(0, 0, 0, 0.10);
+    width: 100%;
+}
+.heading{
+    display: flex;
+    position: absolute;
+    color: #fff;
+    padding-top: 66px;
+    padding-left: 6rem;
+}
+.para{
+    position: relative;
+    color: var(--secondary-color-2, #E2E2E2);
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    margin-left: 65rem;
+    border: 1px solid var(--accent-color, #fff);
+    margin-bottom: 78px;
+    margin-top: 65px;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.10);
+    
+}

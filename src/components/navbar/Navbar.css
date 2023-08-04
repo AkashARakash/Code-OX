@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Noto Serif Tamil;
+    font-size: 15px;
+    font-style: normal;
+}
+.navbar{
+    width: 100%;
+    height: 40px;
+    flex-shrink: 0;
+    background-color: #7D8085;
+}
+.icon{
+    color: #fff;
+    display: flex;
+    padding: 9px;
+    margin-left: 3rem;
+}
+.iconright{
+    display: flex;
+    float: right;
+    margin-left: 47rem;
+
+}
+.ic{
+    padding: 5px;
+}
+.st{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #fff;
+}
